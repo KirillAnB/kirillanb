@@ -8,7 +8,7 @@
 Тут представлены репозитории с примерами моих тестов и ссылки на коллекции для Postman. 
 
 - 📫 Как связаться со мной:[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bigredmanta@gmail.com)
-[![Mail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rahya@mail.ru)
+[![Mail Badge](https://img.shields.io/badge/-Mail.Ru-005FF9?style=flat&logo=maildotru&logoColor=white)](mailto:rahya@mail.ru)
 
 
 ---
