@@ -32,8 +32,19 @@
     </a>
   </div>
 
+### Репозитории на github:
+  <div id="badges">
+    <a href="https://github.com/KirillAnB/dummyio_pytest" target="_blank">
+      <img src="https://img.shields.io/badge/pytest-dummi.io-blue" width="40" height="40" alt="pytest" />
+    </a>
+
+
+
+
+### Коллекции Postman:
+
 ---
-### Инструменты тестирования:
+### Инструменты тестирования, с которыми я умею работать:
 ### 📁 TMS системы:
 
 <div>
