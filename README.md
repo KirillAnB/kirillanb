@@ -12,7 +12,7 @@
 
 
 
-### Мое резюме:
+### Мое резюме тут:
 <div id="badges">
   <a href="https://drive.google.com/file/d/13bzlw6UzsJWOWDTTsBoF8NBdsQxTg1_i/view?usp=drive_link" target="_blank">
     <img src="https://github.com/KirillAnB/kirillanb/blob/main/assets/cv.png" width="40" height="40" alt="CV"/>
