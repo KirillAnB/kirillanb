@@ -35,7 +35,7 @@
 ### Репозитории на github:
   <div id="badges">
     <a href="https://github.com/KirillAnB/dummyio_pytest" target="_blank">
-      <img src="https://img.shields.io/badge/pytest-dummi.io-blue" width="120" height="40" alt="pytest" />
+      <img src="https://img.shields.io/badge/pytest-dummi.io-blue" width="140" height="40" alt="pytest" />
     </a>
 
 
