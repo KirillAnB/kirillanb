@@ -39,7 +39,7 @@
     </a>
   <div id="badges">
     <a href="https://github.com/KirillAnB/API_maps_testing" target="_blank">
-      <img src="https://img.shields.io/badge/pytest-api-gmaps-blue" width="140" height="40" alt="pytest" />
+      <img src="https://img.shields.io/badge/pytest-api.gmaps-blue" width="140" height="40" alt="pytest" />
     </a>
 
 
