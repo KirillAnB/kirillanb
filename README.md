@@ -35,11 +35,11 @@
 ### Репозитории на github:
   <div id="badges">
     <a href="https://github.com/KirillAnB/dummyio_pytest" target="_blank">
-      <img src="https://img.shields.io/badge/pytest-dummi.io.api-blue" width="140" height="40" alt="pytest-dummi" />
+      <img src="https://img.shields.io/badge/pytest-dummi.io.api-blue" width="140" height="30" alt="pytest-dummi" />
     </a>
   <div id="badges">
     <a href="https://github.com/KirillAnB/API_maps_testing" target="_blank">
-      <img src="https://img.shields.io/badge/pytest-gmaps.api-blue" width="140" height="40" alt="pytest-maps" />
+      <img src="https://img.shields.io/badge/pytest-gmaps.api-blue" width="140" height="30" alt="pytest-maps" />
     </a>
 
 
@@ -48,7 +48,7 @@
 ### Коллекции Postman:
   <div id="badges">
     <a href="https://speeding-station-89893.postman.co/workspace/Portfolio_workspace~c70f8d80-7838-41bf-8320-f935f9d24d05/collection/28066936-98a64402-bd4a-491f-8d88-d26965fa8137?action=share&creator=28066936&active-environment=28066936-b6a835ab-cb69-4da9-993a-068904a726aa" target="_blank">
-      <img src="https://img.shields.io/badge/postman-dummi.io-orange" width="140" height="40" alt="postman-dummi" />
+      <img src="https://img.shields.io/badge/postman-dummi.io-orange" width="140" height="30" alt="postman-dummi" />
     </a>
 
 
