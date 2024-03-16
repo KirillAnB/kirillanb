@@ -7,8 +7,17 @@
 Я junior QA tester.
 Тут представлены репозитории с примерами моих тестов и ссылки на коллекции для Postman. 
 
-- 📫 Как связаться со мной:[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bigredmanta@gmail.com)
+- 📫 Как со мной связаться:[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bigredmanta@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/-Mail.Ru-005FF9?style=flat&logo=maildotru&logoColor=white)](mailto:rahya@mail.ru)
+
+
+
+### Мое резюме:
+<div id="badges">
+  <a href="https://drive.google.com/file/d/13bzlw6UzsJWOWDTTsBoF8NBdsQxTg1_i/view?usp=drive_link" target="_blank">
+    <img src="https://github.com/KirillAnB/kirillanb/blob/main/assets/cv.png" width="40" height="40" alt="CV"/>
+  </a>
+
 
 
 ---
