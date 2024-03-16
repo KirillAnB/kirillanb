@@ -38,7 +38,7 @@
       <img src="https://img.shields.io/badge/pytest-dummi.io-blue" width="140" height="40" alt="pytest" />
     </a>
   <div id="badges">
-    <a href="hhttps://github.com/KirillAnB/API_maps_testing" target="_blank">
+    <a href="https://github.com/KirillAnB/API_maps_testing" target="_blank">
       <img src="https://img.shields.io/badge/pytest-api-gmaps-blue" width="140" height="40" alt="pytest" />
     </a>
 
