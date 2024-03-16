@@ -74,7 +74,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://github.com/KirillAnB/kirillanb/blob/main/assets/python.png" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp
-  <img src="hhttps://github.com/KirillAnB/kirillanb/blob/main/assets/visual-studio.png" title="visual" alt="visual" width="40" height="40"/>&nbsp
+  <img src="https://github.com/KirillAnB/kirillanb/blob/main/assets/visual-studio.png" title="visual" alt="visual" width="40" height="40"/>&nbsp
   
 </div>
 
