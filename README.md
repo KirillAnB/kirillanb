@@ -52,13 +52,11 @@
     <a href="https://speeding-station-89893.postman.co/workspace/Portfolio_workspace~c70f8d80-7838-41bf-8320-f935f9d24d05/collection/28066936-98a64402-bd4a-491f-8d88-d26965fa8137?action=share&creator=28066936&active-environment=28066936-b6a835ab-cb69-4da9-993a-068904a726aa" target="_blank">
       <img src="https://img.shields.io/badge/postman-dummi.io-orange" width="140" height="30" alt="postman-dummi" />
     </a>
-<<<<<<< HEAD
     <a href="https://speeding-station-89893.postman.co/workspace/Portfolio_workspace~c70f8d80-7838-41bf-8320-f935f9d24d05/collection/28066936-8359fa11-2830-4981-a137-935871e43ab6?action=share&creator=28066936&active-environment=28066936-9292ca04-9d6b-4373-a4ee-e767b23328ab" target="_blank">
       <img src="https://img.shields.io/badge/postman-dummi.io-orange" width="140" height="30" alt="postman-gmaps" />
     </a>
-=======
   </div>
->>>>>>> b2f7dc6ef2eee4e3c499525a0a7293563c00b6f2
+
 
 
 ---
