@@ -14,7 +14,7 @@
 ---
 ### Мое резюме тут:
 <div id="badges">
-  <a href="https://drive.google.com/file/d/1WEAVVkK4qn1kwxhREpqLvfyxKwEAAZVG/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1MEUokwzZQrZsQctF8s9vcuUiaSvnR-5e/view?usp=sharing" target="_blank">
     <img src="https://github.com/KirillAnB/kirillanb/blob/main/assets/cv.png" width="40" height="40" alt="CV"/>
   </a>
 
